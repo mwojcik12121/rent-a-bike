@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteBase /
+RewriteRule ^index\.html?$ [NC,R,L]
+# HTID:21020981: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:21020981:
